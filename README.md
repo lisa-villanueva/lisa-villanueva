@@ -13,5 +13,6 @@ I approach every project through a three-stage **Sovereignty Model**:
 * **Stage 3 | Agentic Architecture:** Deploying platform-agnostic AI Agents that prioritize "Source-of-Truth" logic over generative hallucinations.
 
 ### 📊 Featured Case: [ITSM Diagnostic Project](https://github.com/lisa-villanueva/itsm-workflow-sql-diagnostics)
+* **Validated architectural patterns using standardized ITSM benchmarks to ensure portability across regulated enterprise environments.
 * **The Insight:** Identified a **45% SLA performance penalty** tied to process "Rework."
 * **The Solution:** Engineered a **Socratic Diagnostic Agent** to triage high-friction tickets.
