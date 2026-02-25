@@ -12,6 +12,6 @@ I approach every project through a three-stage **Sovereignty Model**:
 * **Offer B | Controls & Integrity:** Designing "Human-in-the-Loop" (HITL) guardrails and automated reconciliation unit tests.
 * **Offer C | Agentic Architecture:** Deploying platform-agnostic AI Agents that prioritize "Source-of-Truth" logic over generative hallucinations.
 
-### 📊 Featured Case: [ITSM Workflow Diagnostics](https://github.com/your-username/itsm-workflow-sql-diagnostics)
+### 📊 Featured Case: [https://github.com/lisa-villanueva/itsm-workflow-sql-diagnostics]
 * **The Insight:** Identified a **45% SLA performance penalty** tied to process "Rework."
 * **The Solution:** Engineered a **Socratic Diagnostic Agent** to triage high-friction tickets.
