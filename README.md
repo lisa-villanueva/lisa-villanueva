@@ -2,7 +2,8 @@
 
 I specialize in **Disciplined AI Execution**: the bridge between raw data diagnostics and autonomous operational systems. I help organizations move past AI hype by engineering high-integrity frameworks that ensure automation is **auditable, reversible, and ROI-aligned.**
 
-### ✨ My North Star
+### ⭐ Strategic Intent
+To architect governed AI ecosystems for high-stakes environments where data integrity is the primary constraint and ROI is the mandatory output.
 To architect governed AI ecosystems for high-stakes environments (Legal, Advancement, ITSM) where data integrity is non-negotiable.
 
 ### 🛠️ The Governed Framework
