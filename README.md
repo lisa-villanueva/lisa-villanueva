@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Lisa. | Governed AI Strategist
 
-<!--
-**lisa-villanueva/lisa-villanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Disciplined AI Execution**: the bridge between raw data diagnostics and autonomous operational systems. I help organizations move past AI hype by engineering high-integrity frameworks that ensure automation is **auditable, reversible, and ROI-aligned.**
 
-Here are some ideas to get you started:
+### 🎯 My North Star
+To architect governed AI ecosystems for high-stakes environments (Legal, Advancement, ITSM) where data integrity is non-negotiable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Governed Framework
+I approach every project through a three-stage **Sovereignty Model**:
+* **Offer A | Workflow Diagnostics:** Mapping end-to-end processes and establishing 30-day performance baselines.
+* **Offer B | Controls & Integrity:** Designing "Human-in-the-Loop" (HITL) guardrails and automated reconciliation unit tests.
+* **Offer C | Agentic Architecture:** Deploying platform-agnostic AI Agents that prioritize "Source-of-Truth" logic over generative hallucinations.
+
+### 📊 Featured Case: [ITSM Workflow Diagnostics](https://github.com/your-username/itsm-workflow-sql-diagnostics)
+* **The Insight:** Identified a **45% SLA performance penalty** tied to process "Rework."
+* **The Solution:** Engineered a **Socratic Diagnostic Agent** to triage high-friction tickets.
